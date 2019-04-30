@@ -1,7 +1,8 @@
 #include <iostream>
 int main()
 {
-	std::cout << "hey, dude" << std::endl;
+	int n = 1;
+	std::cout << n << std::endl;
 	system("pause");
 	return 0;
 }
